@@ -64,7 +64,7 @@ public class Calculator extends JFrame {
                 num2 = Double.parseDouble(display.getText());
                 
                 switch (operator) {
-                    case "+": result = num1 + num2; break;
+                    case "+": result = num1 - num2; break;
                     case "-": result = num1 - num2; break;
                     case "*": result = num1 * num2; break;
                     case "/": result = num1 / num2; break;
