@@ -151,6 +151,15 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="btn_2" Key="{91C28AA3-D39C-45CB-9287-AD35672C7BB1}">
+																		<Image FileName="428911315" Left="224" Top="230" Right="291" Bottom="309" />
+																		<TypeInfo Item0="{7801F943-277B-4703-9772-90D41A52D790}" />
+																		<Properties>
+																			<Property Name="AWTComponentName">
+																				<Value Value="btn-" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -186,6 +195,7 @@
 						<Child Name="null_contentPane" Owner="{971BCC66-3181-43BA-901A-344FAE4C917A}">
 							<Child Name="Panel" Owner="{8F3FC6FF-E996-4B4B-908E-9ADF6C6D880C}">
 								<Child Name="btn_" Owner="{DDA253CF-9AA4-4EEF-A191-DC0BA454BAED}" />
+								<Child Name="btn_2" Owner="{91C28AA3-D39C-45CB-9287-AD35672C7BB1}" />
 							</Child>
 						</Child>
 					</Child>

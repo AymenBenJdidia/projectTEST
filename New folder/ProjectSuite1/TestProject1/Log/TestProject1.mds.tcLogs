@@ -30,6 +30,33 @@
 				<Prp name="relpath" type="S" value="10_12_2025_19_54_03_543\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.8690970255"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{57CBA670-6C8D-4471-8A34-CBD7F4212925}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_20_51_29_983\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.8710354167"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{AAB9681A-9E01-45E0-88FE-07BFDD2386A0}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_20_54_17_460\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.877218588"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B4972988-370F-4359-94A3-AC51D846D9A6}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_21_03_11_686\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
