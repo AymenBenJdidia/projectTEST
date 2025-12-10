@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{0E0697F1-8110-4B09-BCF9-0B3680146F8C}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{0E2BC0A1-96CC-4FDC-B4BB-3CE08D7AB27A}">
+			<config nodeName="Calculator" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Java">
+					<param name="Java" parameters="" workFolder="" jvmExecutable="C:\Program Files\Java\jre1.8.0_172\Bin\java.exe" runAsJar="True" jarFileName="C:\Users\benjd\Desktop\projectTEST\Calculator.java" entryPoint="" classPaths="" applicationArguments="" options="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

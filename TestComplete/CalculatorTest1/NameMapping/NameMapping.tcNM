@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{FF504A97-0D03-4D33-A17B-6902B17C2695}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="java" Key="{1EE65091-FBF1-4D4E-99E9-7DCACFE40E64}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="java" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Calculator" Key="{94F18A24-92B0-4401-87DA-69293E64A76B}">
+								<Image FileName="-1321575979" Left="0" Top="0" Right="558" Bottom="457" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="Calculator" />
+									</Property>
+									<Property Name="AWTComponentAccessibleName">
+										<Value Value="Simple Calculator" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="RootPane" Key="{919ACD6D-1E6E-4853-991C-83E0BA3C372F}">
+										<Image FileName="-1321575979" Left="-169" Top="-54" Right="263" Bottom="275" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javax.swing.JRootPane" />
+											</Property>
+											<Property Name="AWTComponentAccessibleName">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="null_layeredPane" Key="{78CA63F4-B1D7-4881-B956-D9929521C387}">
+												<Image FileName="-1321575979" Left="-169" Top="-54" Right="263" Bottom="275" />
+												<Properties>
+													<Property Name="AWTComponentName">
+														<Value Value="null.layeredPane" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="null_contentPane" Key="{AB7C95CC-F41C-4307-AC53-4371DB95F274}">
+														<Image FileName="-1321575979" Left="-169" Top="-54" Right="263" Bottom="275" />
+														<Properties>
+															<Property Name="AWTComponentName">
+																<Value Value="null.contentPane" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Panel" Key="{6AA6B258-0AB2-43EA-A6EC-92FF427B1932}">
+																<Image FileName="-1321575979" Left="-169" Top="-22" Right="263" Bottom="275" />
+																<Properties>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="javax.swing.JPanel" />
+																	</Property>
+																	<Property Name="AWTComponentAccessibleName">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="btn_" Key="{91D860EB-3AFD-40A9-AB4B-82D49FF79367}">
+																		<Image FileName="-1321575979" Left="49" Top="204" Right="153" Bottom="274" />
+																		<TypeInfo Item0="{82B290C3-6985-4587-A68A-7AA3AC149A0B}" />
+																		<Properties>
+																			<Property Name="AWTComponentName">
+																				<Value Value="btn=" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="btn6" Key="{0D1F61B0-68CD-4C77-9635-9D445993C790}">
+																		<Image FileName="513624576" Left="49" Top="54" Right="153" Bottom="124" />
+																		<TypeInfo Item0="{82B290C3-6985-4587-A68A-7AA3AC149A0B}" />
+																		<Properties>
+																			<Property Name="AWTComponentName">
+																				<Value Value="btn6" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="btn_2" Key="{88461C60-0026-4272-B466-D5AFF4663FB8}">
+																		<Image FileName="1618748804" Left="158" Top="129" Right="262" Bottom="199" />
+																		<TypeInfo Item0="{82B290C3-6985-4587-A68A-7AA3AC149A0B}" />
+																		<Properties>
+																			<Property Name="AWTComponentName">
+																				<Value Value="btn-" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="btn_3" Key="{2090994B-EBAC-41EB-B7B9-BD62C80E0ED8}">
+																		<Image FileName="-2054436660" Left="224" Top="314" Right="291" Bottom="393" />
+																		<TypeInfo Item0="{82B290C3-6985-4587-A68A-7AA3AC149A0B}" />
+																		<Properties>
+																			<Property Name="AWTComponentName">
+																				<Value Value="btn+" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="displayField" Key="{28589118-02CC-4779-AA8C-0867F5F7F9B3}">
+																<Image FileName="-1914351955" Left="7" Top="30" Right="293" Bottom="62" />
+																<TypeInfo Item0="{C9619966-D2E8-49C1-AD33-8C2CDF556AFF}" />
+																<Properties>
+																	<Property Name="AWTComponentName">
+																		<Value Value="displayField" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="java" Owner="{1EE65091-FBF1-4D4E-99E9-7DCACFE40E64}">
+			<Child Name="Calculator" Owner="{94F18A24-92B0-4401-87DA-69293E64A76B}">
+				<Child Name="RootPane" Owner="{919ACD6D-1E6E-4853-991C-83E0BA3C372F}">
+					<Child Name="null_layeredPane" Owner="{78CA63F4-B1D7-4881-B956-D9929521C387}">
+						<Child Name="null_contentPane" Owner="{AB7C95CC-F41C-4307-AC53-4371DB95F274}">
+							<Child Name="Panel" Owner="{6AA6B258-0AB2-43EA-A6EC-92FF427B1932}">
+								<Child Name="btn_" Owner="{91D860EB-3AFD-40A9-AB4B-82D49FF79367}" />
+								<Child Name="btn6" Owner="{0D1F61B0-68CD-4C77-9635-9D445993C790}" />
+								<Child Name="btn_2" Owner="{88461C60-0026-4272-B466-D5AFF4663FB8}" />
+								<Child Name="btn_3" Owner="{2090994B-EBAC-41EB-B7B9-BD62C80E0ED8}" />
+							</Child>
+							<Child Name="displayField" Owner="{28589118-02CC-4779-AA8C-0867F5F7F9B3}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

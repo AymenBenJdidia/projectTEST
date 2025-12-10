@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders"/>
+		<Node name="logs">
+			<Node name="log idx=0000">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.6984503241"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{144EAE3D-CA44-4F35-B29A-8DA7ACD73CEA}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test2]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_16_45_46_108\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.6988751968"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B68CDA67-4608-43D4-AB44-20080D330675}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test2]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_16_46_22_817\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.6992187847"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{2F2C217C-5545-4287-9E63-E641E18F5597}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test3]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_16_46_52_503\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.6996096412"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6C48B6C4-1234-4EEA-A6D9-78D9F18DD41F}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test3]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_16_47_26_273\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="46001.7008992824"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{528BC28B-A1BD-4DDA-B4EF-44685430584A}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test5]"/>
+				<Prp name="relpath" type="S" value="10_12_2025_16_49_17_698\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
+		<Prp name="version" type="S" value="11.0"/>
+	</Node>
+</Nodes>
